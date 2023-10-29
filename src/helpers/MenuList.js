@@ -4,36 +4,37 @@ import Fries from "../assets/Fries.jpg";
 import Burgers from "../assets/Burgers.jpg";
 import Milkshake from "../assets/Milkshake.jpg";
 import Desserts from "../assets/Desserts.jpg";
+import Loading from "../assets/loading.jpg"
 
 export const MenuList = [
     {
-        name:"Pizza ",
-        image: Pizza,
-        price: 12.99
+        name:"Coming soon..",
+        image: Loading,
+        price: 0.00
     },
     {
-      name: "Pasta",
-      image: Pasta,
-      price: 11.99,
+      name: "Coming soon..",
+      image: Loading,
+      price: 0.00,
     },
     {
-      name: "Fries",
-      image: Fries,
-      price: 2.53,
+      name: "Coming soon..",
+      image: Loading,
+      price: 0.00,
     },
     {
-      name: "Burgers",
-      image: Burgers,
-      price: 17.99,
+      name: "Coming soon..",
+      image: Loading,
+      price: 0.00,
     },
     {
-      name: "Milshake",
-      image: Milkshake,
-      price: 4.99,
+      name: "Coming soon..",
+      image: Loading,
+      price: 0.00,
     },
     {
-      name: "Desserts",
-      image: Desserts,
-      price: 19.99,
+      name: "Coming soon..",
+      image: Loading,
+      price: 0.00,
     },
 ];

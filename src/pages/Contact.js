@@ -2,7 +2,10 @@ import React from 'react';
 import BannerImage from '../assets/food.jpg';
 import '../styles/Contact.css'
 
+
 function Contact() {
+
+
   return (
     <div  className='contact'>
         <div className='leftSide'
